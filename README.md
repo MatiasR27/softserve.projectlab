@@ -9,3 +9,6 @@
 * clickear en Pull Requests 
 * New pull request
 * aca como base tienen que seleccionar su rama y compare main
+
+## Entity Relationship Diagram
+![Descripción de la imagen](https://raw.githubusercontent.com/MatiasR27/softserve.projectlab/main/image.png)
